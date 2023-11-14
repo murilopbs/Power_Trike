@@ -175,4 +175,4 @@ A tabela de riscos apresenta os principais riscos que podem afetar o projeto, co
 
 > Kerzner, H. (2017). Project management: a systems approach to planning, scheduling, and controlling (12th ed.). Hoboken, NJ: Wiley.
 
-> Monitoria, A. Controle de Riscos: A Monitoria. ADS 2019.2. 2019. Disponível em: https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos/. Acesso em: 19 abr. 2023.
+> Monitoria, A. Controle de Riscos: A Monitoria. ADS 2019.2. 2019. Disponível em: https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos/. Acesso em: 13 nov. 2023.
