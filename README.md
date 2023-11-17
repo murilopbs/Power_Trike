@@ -2,7 +2,7 @@
 ## Power Trike - PCTec
 
 <div align="center">
-    <img src="https://images.vexels.com/media/users/3/142890/isolated/preview/4ea2d7c4bf3cad23a4f18ee58752deb8-logotipo-de-aneis-de-alta-tecnologia.png" style="width:15vw"/>
+    <img src="https://images.vexels.com/media/users/3/142890/isolated/preview/4ea2d7c4bf3cad23a4f18ee58752deb8-logotipo-de-aneis-de-alta-tecnologia.png" style="width:10vw"/>
   <br><br>
     <p> Figura 1: Exemplo de logo Power Trike.</p> 
 </div>
