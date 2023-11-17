@@ -1,7 +1,7 @@
 # Casos de Uso
 
 ## Introdução
-Casos de uso (Use Cases, em inglês) são uma técnica utilizada na engenharia de software para capturar, descrever e especificar as interações entre um sistema e seus usuários ou outros sistemas. Eles são uma forma de representar requisitos funcionais, ou seja, as funcionalidades ou serviços que o sistema deve fornecer.
+Casos de uso é uma técnica utilizada na engenharia de software para capturar, descrever e especificar as interações entre um sistema e seus usuários ou outros sistemas. Eles são uma forma de representar requisitos funcionais, ou seja, as funcionalidades ou serviços que o sistema deve fornecer.
 
 Este documento de casos de uso descreve uma série de casos de uso para o aplicativo de Estímulo Muscular, destinado a fornecer aos usuários uma experiência personalizada de eletroestimulação muscular. O aplicativo permite a configuração de parâmetros, ativação de estímulo muscular e interação com dispositivos via Bluetooth.
 
