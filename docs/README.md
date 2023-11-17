@@ -5,6 +5,7 @@ Bem-vindo às documentações do projeto. Aqui estão alguns documentos importan
 1. [Plano de Riscos](plano_riscos.md)
 2. [Requisitos Funcionais](requisitos_funcionais.md)
 3. [Requisitos Não Funcionais](requisitos_nao_funcionais.md)
+4. [Casos de uso](casos_de_uso.md)
 
 ## Sobre o Projeto
 
