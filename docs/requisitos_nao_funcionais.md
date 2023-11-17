@@ -1,16 +1,12 @@
 # Requisitos Não Funcionais
 
-## Histórico de Alterações
-
-| Versão | Descrição                                        | Responsáveis                                   |  Data       |
-| ------ | ------------------------------------------------ | ---------------------------------------------- |  ---------- |
-| 0.1    | Criação e organização dos tópicos do documento   | [Murilo Perazzo](https://github.com/murilopbs) | 14/11/2023 |
-
 ## Introdução
-Este documento descreve os requisitos não funcionais para o desenvolvimento do aplicativo de eletroestimulação muscular. Esses requisitos abordam aspectos de desempenho, segurança, compatibilidade e usabilidade do aplicativo.
+Requisitos não funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenção e tecnologias envolvidas
+
+Este documento elicita os requisitos não funcionais para o desenvolvimento do aplicativo de eletroestimulação muscular.
 
 ## Metodologia
-A definição dos requisitos não funcionais foi conduzida por meio de análises de desempenho, considerações de segurança e requisitos de usabilidade. A metodologia incluiu as seguintes etapas:
+A definição dos requisitos não funcionais foi conduzida por meio de análises de desempenho, critérios de segurança e requisitos de usabilidade. A metodologia incluiu as seguintes etapas:
 
 1. **Análise de Desempenho:**
    - Avaliação da rapidez de resposta do aplicativo aos comandos do usuário.
@@ -51,3 +47,10 @@ O aplicativo deve ser estável e confiável, evitando falhas inesperadas durante
 ### RNF-06: Segurança de Dados na Nuvem
 #### Descrição
 O sistema deve garantir a segurança e integridade dos dados armazenados na nuvem.
+
+## Histórico de Alterações
+
+| Versão | Descrição                                        | Responsáveis                                   |  Data       |
+| ------ | ------------------------------------------------ | ---------------------------------------------- |  ---------- |
+| 0.1    | Criação e organização dos tópicos do documento   | [Murilo Perazzo](https://github.com/murilopbs) | 14/11/2023 |
+| 0.1    | Revisão e atualização do documento               | [Ian da Costa](https://github.com/ian-dcg)     | 17/11/2023 |
