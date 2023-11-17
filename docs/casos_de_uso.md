@@ -3,7 +3,7 @@
 ## Introdução
 Casos de uso é uma técnica utilizada na engenharia de software para capturar, descrever e especificar as interações entre um sistema e seus usuários ou outros sistemas. Eles são uma forma de representar requisitos funcionais, ou seja, as funcionalidades ou serviços que o sistema deve fornecer.
 
-Este documento de casos de uso descreve uma série de casos de uso para o aplicativo de Estímulo Muscular, destinado a fornecer aos usuários uma experiência personalizada de eletroestimulação muscular. O aplicativo permite a configuração de parâmetros, ativação de estímulo muscular e interação com dispositivos via Bluetooth.
+Este documento de casos de uso descreve uma série de casos de uso para o aplicativo de eletroestimulação muscular, destinado a fornecer aos usuários uma experiência personalizada de eletroestimulação muscular. O aplicativo permite a configuração de parâmetros, ativação da eletroestimulação muscular e interação com dispositivos via Bluetooth.
 
 ## Metodologia
 Os casos de uso a seguir foram elaborados seguindo a notação padrão de modelagem de sistemas, utilizando uma abordagem centrada no usuário. Cada caso de uso é estruturado com seções específicas, incluindo Atores, Pré-condições, Cenários Principais e Alternativos, e Pós-condições.
@@ -12,11 +12,11 @@ O objetivo principal deste documento é fornecer uma visão abrangente das inter
 
 ## Casos de Uso
 
-### UC01 - Ativar Estímulo Muscular
+### UC01 - Ativar Eletroestimulação Muscular
 <table>
   <thead>
     <tr>
-      <th colspan="2" style="text-align:center;">Ativar Estímulo Muscular</th>
+      <th colspan="2" style="text-align:center;">Ativar Eletroestimulação Muscular</th>
     </tr>
   </thead>
   <tbody>
@@ -30,7 +30,7 @@ O objetivo principal deste documento é fornecer uma visão abrangente das inter
     </tr>
     <tr>
       <td>Cenário Principal</td>
-     <td>a) O usuário ativa o estímulo muscular.<br/>
+     <td>a) O usuário ativa a eletroestímulação muscular.<br/>
       b) O aplicativo envia os parâmetros necessários ao dispositivo.<br/>
       c) O dispositivo ativa o músculo de acordo com os parâmetros.
       </td>
