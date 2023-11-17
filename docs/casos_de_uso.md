@@ -1,12 +1,9 @@
 # Casos de Uso
-## Histórico de Alterações
-
-| Versão | Descrição                                        | Responsáveis                                   |  Data       |
-| ------ | ------------------------------------------------ | ---------------------------------------------- |  ---------- |
-| 0.1    | Criação e organização dos tópicos do documento   | [Murilo Perazzo](https://github.com/murilopbs) | 16/11/2023 |
 
 ## Introdução
-Este documento descreve uma série de casos de uso para o aplicativo de Estímulo Muscular, destinado a fornecer aos usuários uma experiência personalizada de eletroestimulação muscular. O aplicativo permite a configuração de parâmetros, ativação de estímulo muscular e interação com dispositivos via Bluetooth.
+Um diagrama de casos de uso é uma representação visual que descreve as interações entre um sistema e os usuários externos. Ele é composto por uma série de ações, chamadas de casos de uso, que ilustram as principais funcionalidades do sistema e como elas são executadas pelos usuários. Essa ferramenta é útil para documentar e comunicar de forma clara e concisa o comportamento esperado do sistema, bem como a interação entre seus usuários e suas funcionalidades.
+
+Este documento de casos de uso descreve uma série de casos de uso para o aplicativo de Estímulo Muscular, destinado a fornecer aos usuários uma experiência personalizada de eletroestimulação muscular. O aplicativo permite a configuração de parâmetros, ativação de estímulo muscular e interação com dispositivos via Bluetooth.
 
 ## Metodologia
 Os casos de uso a seguir foram elaborados seguindo a notação padrão de modelagem de sistemas, utilizando uma abordagem centrada no usuário. Cada caso de uso é estruturado com seções específicas, incluindo Atores, Pré-condições, Cenários Principais e Alternativos, e Pós-condições.
@@ -15,6 +12,7 @@ O objetivo principal deste documento é fornecer uma visão abrangente das inter
 
 ## Casos de Uso
 
+### UC01 - Ativar Estímulo Muscular
 <table>
   <thead>
     <tr>
@@ -28,14 +26,14 @@ O objetivo principal deste documento é fornecer uma visão abrangente das inter
     </tr>
     <tr>
       <td>Pré-condição</td>
-      <td>a) O usuário ativa o estímulo muscular.<br/>
-      b) O aplicativo envia os parâmetros necessários ao dispositivo.<br/>
-      c) O dispositivo ativa o músculo de acordo com os parâmetros.
-      </td>
+      <td>O aplicativo estar instalado.</td>
     </tr>
     <tr>
       <td>Cenário Principal</td>
-      <td>Risco com possibilidade média de acontecer e com um impacto significativo no projeto.</td>
+     <td>a) O usuário ativa o estímulo muscular.<br/>
+      b) O aplicativo envia os parâmetros necessários ao dispositivo.<br/>
+      c) O dispositivo ativa o músculo de acordo com os parâmetros.
+      </td>
     </tr>
     <tr>
       <td>Cenário Alternativo</td>
@@ -46,7 +44,7 @@ O objetivo principal deste documento é fornecer uma visão abrangente das inter
   </tbody>
 </table>
 
-
+### UC02 - Selecionar Parâmetros
 <table>
   <thead>
     <tr>
@@ -83,6 +81,7 @@ O objetivo principal deste documento é fornecer uma visão abrangente das inter
   </tbody>
 </table>
 
+### UC03 - Conectar ao Dispositivo
 <table>
   <thead>
     <tr>
@@ -119,6 +118,7 @@ O objetivo principal deste documento é fornecer uma visão abrangente das inter
   </tbody>
 </table>
 
+### UC04 - Salvar Parâmetros na Nuvem
 <table>
   <thead>
     <tr>
@@ -154,3 +154,10 @@ O objetivo principal deste documento é fornecer uma visão abrangente das inter
     </tr>
   </tbody>
 </table>
+
+## Histórico de Alterações
+
+| Versão | Descrição                                        | Responsáveis                                   |  Data       |
+| ------ | ------------------------------------------------ | ---------------------------------------------- |  ---------- |
+| 0.1    | Criação e organização dos tópicos do documento   | [Murilo Perazzo](https://github.com/murilopbs) | 16/11/2023 |
+| 0.2    | Melhoria da introdução e correção dos casos de uso | [Ian da Costa](https://github.com/ian-dcg) | 17/11/2023 |
