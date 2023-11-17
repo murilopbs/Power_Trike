@@ -1,15 +1,5 @@
 # Plano de Risco
 
-## Histórico de Alterações
-
-| Versão | Descrição                                        | Responsáveis                                   |  Data       |
-| ------ | ------------------------------------------------ | ---------------------------------------------- |  ---------- |
-| 0.1    | Criação e organização dos tópicos do documento   | [Murilo Perazzo](https://github.com/murilopbs) | 13/11/2023 |
-
-## Descrição
-
-Plano de Risco é uma técnica de gestão de projetos que visa identificar e gerenciar possíveis riscos, estimar e controlar custos e definir um cronograma para a realização do projeto. Essa técnica é baseada em uma análise detalhada das tarefas necessárias para a conclusão do projeto e em uma avaliação dos possíveis riscos e incertezas envolvidos. Com base nessas informações, o plano de risco é desenvolvido para garantir que o projeto seja concluído dentro do prazo e do orçamento estabelecidos.
-
 # Introdução
 
 O plano de gerenciamento de riscos é um componente essencial de todo projeto, pois auxilia na identificação e avaliação de riscos potenciais que podem impactar o sucesso do projeto, bem como na formulação de soluções de mitigação. Para garantir o sucesso da entrega, este documento descreve os procedimentos e processos utilizados para o gerenciamento de riscos em um projeto.
@@ -176,3 +166,11 @@ A tabela de riscos apresenta os principais riscos que podem afetar o projeto, co
 > Kerzner, H. (2017). Project management: a systems approach to planning, scheduling, and controlling (12th ed.). Hoboken, NJ: Wiley.
 
 > Monitoria, A. Controle de Riscos: A Monitoria. ADS 2019.2. 2019. Disponível em: https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos/. Acesso em: 13 nov. 2023.
+
+
+## Histórico de Alterações
+
+| Versão | Descrição                                        | Responsáveis                                   |  Data       |
+| ------ | ------------------------------------------------ | ---------------------------------------------- |  ---------- |
+| 0.1    | Criação e organização dos tópicos do documento   | [Murilo Perazzo](https://github.com/murilopbs) | 13/11/2023 |
+| 0.2    | Revisão e correção do documento   | [Ian da Costa](https://github.com/ian-dcg) | 17/11/2023 |
