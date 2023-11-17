@@ -1,18 +1,13 @@
 # Requisitos Funcionais
 
-## Histórico de Alterações
-
-| Versão | Descrição                                        | Responsáveis                                   |  Data       |
-| ------ | ------------------------------------------------ | ---------------------------------------------- |  ---------- |
-| 0.1    | Criação e organização dos tópicos do documento   | [Murilo Perazzo](https://github.com/murilopbs) | 14/11/2023 |
-
 ## Introdução
+Requisitos funcionais são declarações que especificam as operações e funcionalidades que um sistema deve realizar para atender às necessidades do usuário.
 
 Este documento descreve os requisitos funcionais para o desenvolvimento do aplicativo de eletroestimulação muscular. O aplicativo visa proporcionar ao usuário uma experiência personalizada, permitindo o controle de parâmetros como comprimento de onda, frequência e amplitude, além de oferecer funcionalidades de conexão via Bluetooth e armazenamento na nuvem.
 
 ## Metodologia
 
-Os requisitos foram identificados por meio de entrevistas com stakeholders, análise de literatura existente e revisões regulares com a equipe de desenvolvimento.
+Os requisitos foram elicitados por meio de entrevistas com stakeholders, análise de literatura existente e revisões regulares com a equipe de desenvolvimento.
 
 ## Requisitos Funcionais
 
@@ -65,3 +60,10 @@ O aplicativo deve ser capaz de registrar as configurações usadas na sessão at
 
 #### Descrição
 O sistema deve permitir que os usuários armazenem e acessem configurações de sessões na nuvem.
+
+## Histórico de Alterações
+
+| Versão | Descrição                                        | Responsáveis                                   |  Data       |
+| ------ | ------------------------------------------------ | ---------------------------------------------- |  ---------- |
+| 0.1    | Criação e organização dos tópicos do documento   | [Murilo Perazzo](https://github.com/murilopbs) | 14/11/2023 |
+| 0.1    | Revisão e correção do documento                  | [Ian da Costa](https://github.com/ian-dcg)     | 17/11/2023 |
